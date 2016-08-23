@@ -8,7 +8,7 @@ Baixe o repositório na máquina e crie uma BRANCH do seu time seguindo as orien
 
 ###SETUP
 
-Dentro da pasta Assets você vai ter um PNG e PSD para visualizar o layout.
+Dentro da pasta Assets você vai ter um PNG e PSD para visualizar o layout e um PDF com as instruções apresentadas no datashow.
 
 Para extrair as imagens do PSD, você deve utilizar a seguinte url: http://adobe.ly/2bbt0P2 . 
 
